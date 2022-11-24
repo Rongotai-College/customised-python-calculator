@@ -5,11 +5,11 @@
 
 Converting *.py to *.exe
 
->>pip install pyinstaller
+pip install pyinstaller
 –	Navigate to the directory where your python file is
 –	It should preferably be placed in a directory on its own
 
->>Desktop\pyapp>pyinstaller —onefile –w –i icon.ico calc.py
+Desktop\pyapp>pyinstaller —onefile –w –i icon.ico calc.py
 
 –	Create an *.ico file from a *.png.  Select an image of less than 60kb
 –	Convertico.com is an excellent site for this
